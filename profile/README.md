@@ -40,7 +40,7 @@ ot run osintverse-community/holehe e:ada@example.com   # installs it on first us
 
 ### Repositories
 
-| | |
+| Repository | What it is |
 | --- | --- |
 | [otinstaller](https://github.com/OTInstaller/otinstaller) | The open-source code: `ot` (Go), otlite (Python), the registry API, the manifest spec, the scanner and the seed |
 | [ot](https://github.com/OTInstaller/ot) | Signed release downloads of `ot` |
